@@ -6,3 +6,8 @@ Project outLine
 5.Login validation and error message display
 6.Sign up form design
 7.Signup Validation and Error Message Display
+8.Forgot password Form Design
+9.Forgot Password Validation and Error Message Display
+10.Reset Password Page Design
+11.Reset Password Validation and Error Message Display
+12.Logout Functionality
