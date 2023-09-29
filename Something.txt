@@ -1,0 +1,8 @@
+Project outLine
+1.Design the Login page
+2.Html part
+3.Css part
+4.Js part
+5.Login validation and error message display
+6.Sign up form design
+7.Signup Validation and Error Message Display
