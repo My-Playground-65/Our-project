@@ -11,3 +11,6 @@ Project outLine
 10.Reset Password Page Design
 11.Reset Password Validation and Error Message Display
 12.Logout Functionality
+13.Profile Update Page Design
+14.Update Profile Validation and Error Message Display
+
